@@ -15,8 +15,8 @@ header {
 }
 
 div {
-    width: 400px;
-    margin: -7em auto;
+    width: 500px;
+    margin: -5em auto;
     padding: 40px;
     background-color: rgba(255, 255, 255, 0.84);
     border-radius: 15em;
@@ -35,11 +35,11 @@ div {
 }
 
 .hammer {
-    margin-left: 25%;
+    margin-left: 35%;
     position: relative;
     animation: anim1 2s;
     animation-iteration-count: infinite;
-    max-width: 50%;
+    max-width: 30%;
 }
 
 
@@ -64,7 +64,7 @@ div {
 .text1 {
     text-align: center;
     color: #FFCE31;
-    margin: .2em;
+    margin: -1em .2em 3em .2em;
     text-shadow: -1px 1px 5px #ffe7b6;
 }
 
